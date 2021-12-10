@@ -1,0 +1,12 @@
+D:\Downloads\knopka-testing-task\knopka-testing-task\Knopka.Hr21\bin\Debug\net5.0\Knopka.Hr21.deps.json
+D:\Downloads\knopka-testing-task\knopka-testing-task\Knopka.Hr21\bin\Debug\net5.0\Knopka.Hr21.dll
+D:\Downloads\knopka-testing-task\knopka-testing-task\Knopka.Hr21\bin\Debug\net5.0\ref\Knopka.Hr21.dll
+D:\Downloads\knopka-testing-task\knopka-testing-task\Knopka.Hr21\bin\Debug\net5.0\Knopka.Hr21.pdb
+D:\Downloads\knopka-testing-task\knopka-testing-task\Knopka.Hr21\obj\Debug\net5.0\Knopka.Hr21.csproj.AssemblyReference.cache
+D:\Downloads\knopka-testing-task\knopka-testing-task\Knopka.Hr21\obj\Debug\net5.0\Knopka.Hr21.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\knopka-testing-task\knopka-testing-task\Knopka.Hr21\obj\Debug\net5.0\Knopka.Hr21.AssemblyInfoInputs.cache
+D:\Downloads\knopka-testing-task\knopka-testing-task\Knopka.Hr21\obj\Debug\net5.0\Knopka.Hr21.AssemblyInfo.cs
+D:\Downloads\knopka-testing-task\knopka-testing-task\Knopka.Hr21\obj\Debug\net5.0\Knopka.Hr21.csproj.CoreCompileInputs.cache
+D:\Downloads\knopka-testing-task\knopka-testing-task\Knopka.Hr21\obj\Debug\net5.0\Knopka.Hr21.dll
+D:\Downloads\knopka-testing-task\knopka-testing-task\Knopka.Hr21\obj\Debug\net5.0\ref\Knopka.Hr21.dll
+D:\Downloads\knopka-testing-task\knopka-testing-task\Knopka.Hr21\obj\Debug\net5.0\Knopka.Hr21.pdb
